@@ -1,0 +1,62 @@
+{
+  "result": {
+    "events": [
+      {
+        "eventid": "justd_201505",
+        "logo": "https://d1keuthy5s86c8.cloudfront.net/static/ems/upload/img/ed6e0b2fbb7b7ff1c506eb6d8234b75e.png",
+        "name": "Just Doing IT",
+        "location": "Cathedral City CA",
+        "date_str": "Apr 7 - 10, 2016"
+      },
+      {
+        "eventid": "arte_201506",
+        "logo": "https://d1keuthy5s86c8.cloudfront.net/dev/static/ems/upload/img/f1726cf66ff365b6e045a4a3f19932fe.jpg",
+        "name": "App Test Event",
+        "location": "San Diego",
+        "date_str": "Apr 7 - 11, 2016"
+      },
+      {
+        "eventid": "march_201503",
+        "logo": "https://d1keuthy5s86c8.cloudfront.net/dev/static/ems/upload/img/308a5fcc5b02ac7893eedef402dceb08.png",
+        "name": "March Mingle 2015",
+        "location": "El Cajon CA",
+        "date_str": "Apr 7 - 11, 2016"
+      },
+      {
+        "eventid": "napps_201504",
+        "logo": "http://whova.net:6565/static/ems/upload/img/14254885511_Color_NAPPS_Logo_with_registered_trademark.jpg",
+        "name": "NAPPS 2015 ANNUAL",
+        "location": "Arlington, Virginia",
+        "date_str": "Apr 7 - 9, 2016"
+      },
+      {
+        "eventid": "messa_201509",
+        "logo": "https://d1keuthy5s86c8.cloudfront.net/dev/static/ems/upload/img/c7e4d6b7739055ae4dae47ded025be01.png",
+        "name": "Engineer Message Test Event",
+        "location": "San Diego CA",
+        "date_str": "Apr 2, 2016"
+      },
+      {
+        "eventid": "messa_201603",
+        "logo": "https://d1keuthy5s86c8.cloudfront.net/dev/static/ems/upload/img/98c185573ffbc2f6a2e78dee5e0a6bb4.png",
+        "name": "Whova All Message Test Event",
+        "location": "San Diego",
+        "date_str": "Mar 4 - 5, 2016"
+      },
+      {
+        "eventid": "samue_201512",
+        "logo": "https://d1keuthy5s86c8.cloudfront.net/dev/static/ems/upload/img/29feccccd1040c22ae84785daefced9d.png",
+        "name": "Samuel Msg Testing",
+        "location": "San Diego",
+        "date_str": "Dec 22, 2015 - Jan 30, 2016"
+      },
+      {
+        "eventid": "appte_201508",
+        "logo": "https://d1keuthy5s86c8.cloudfront.net/static/ems/upload/img/a9818f8fb92546eb9bf0e4ff23d87204.jpg",
+        "name": "[Agenda Test] 4 day event",
+        "location": "Venice, Italy",
+        "date_str": "Aug 24 - 31, 2015"
+      }
+    ]
+  }
+}
